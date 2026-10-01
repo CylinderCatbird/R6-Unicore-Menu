@@ -1,0 +1,27 @@
+{
+  "repo": "r6-unicore-menu",
+  "product": "R6 Unicore Menu",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "gaming-companion",
+  "topics": [
+    "r6-unicore-menu",
+    "r6-desktop",
+    "r6-windows",
+    "gaming-companion",
+    "match-overlay",
+    "performance-tuning",
+    "in-game-tools",
+    "competitive-play",
+    "desktop-gaming",
+    "windows-gaming",
+    "overlay-panel",
+    "precision-assist",
+    "spatial-awareness",
+    "reaction-profiles"
+  ],
+  "site": "zentool.art"
+}
